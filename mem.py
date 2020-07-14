@@ -1,4 +1,4 @@
 def main():
-	print('ev ok')
+	print('everthing is ok')
 	
 main()
